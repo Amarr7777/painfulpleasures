@@ -1,55 +1,48 @@
-/* Reset default margin and padding */
-body, ul {
-  margin: 0;
-  padding: 0;
+.gallery_main{
+  padding-top: 5%;
 }
 
-/* Create a flex container for the image gallery */
 .image-gallery {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-around;
+  padding-bottom: 1%;
+
+}
+.gallery-2-row{
+  gap: 20px;
+  padding-right: 11%;
   justify-content: space-between;
-  gap: 20px; /* Adjust the gap between images as needed */
+}
+.gallery_long{
+  padding-left: 9.3%;
+}
+.gallery-row-1{
+  padding-bottom: 1%;
 }
 
-/* Style each image item */
-.image-item {
-  flex: 0 1 calc(25% - 20px); /* Four columns with a gap of 20px between them */
-  position: relative;
-  overflow: hidden;
+.image-gallery2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding-bottom: 1%;
+
 }
 
-/* Style the large image */
-.image-item.large {
-  flex: 0 1 calc(50% - 20px); /* Takes up half of the row width with a gap of 20px */
+.image-gallery-o{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding-bottom: 1%;
+}
+.gallery-o-row-1{
+  padding-bottom: 1%;
+}
+.gallery-0-2-row{
+  padding-left: 9%;
 }
 
-/* Style the images inside the gallery */
-.image-item img {
-  width: 100%;
-  height: auto;
-  display: block;
-  transition: transform 0.2s;
-}
+.gallery-o-long{
+  padding-right: 11%;
 
-/* Add hover effect for images */
-.image-item:hover img {
-  transform: scale(1.05);
-}
-
-/* Media query for responsive design */
-@media (max-width: 768px) {
-  .image-item {
-      flex: 0 1 calc(50% - 20px); /* Two columns for screens smaller than 768px */
-  }
-  
-  .image-item.large {
-      flex: 1 1 100%; /* Full width for screens smaller than 768px (1 column) */
-  }
-}
-
-@media (max-width: 480px) {
-  .image-item {
-      flex: 1 1 100%; /* Full width for screens smaller than 480px (1 column) */
-  }
 }
