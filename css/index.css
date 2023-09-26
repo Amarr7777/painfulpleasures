@@ -316,6 +316,7 @@ body {
 .home_gallery {
     display: flex;
     padding-top: 5%;
+    padding-left: 5%;
 }
 
 .home_gallery2 {
@@ -324,12 +325,12 @@ body {
 
 .home_gallery2_0 {
     padding-bottom: 0.5%;
-}
+} 
 
 .our_works .view_gallery_text {
     position: absolute;
-    right: 17%;
-    top: 445%;
+    right: 16%;
+    top: 455%;
     text-decoration: none;
     color: white;
 }
