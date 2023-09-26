@@ -1,0 +1,28 @@
+/*nav bar*/
+.navbar {
+    color: transparent;
+}
+.navbar-brand{
+    height: 100px;
+}
+
+.navbar-nav .btn {
+    border-radius: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 16px;
+    border: 2px solid #42FF00;
+    color: white;
+    width: 200px;
+}
+
+
+ #navbarNavAltMarkup {
+    color: white;
+}
+
+#navbarNavAltMarkup a {
+    color: white;
+    font-size: 16px;
+    padding-inline: 25px;
+} 

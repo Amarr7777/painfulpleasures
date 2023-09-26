@@ -1,0 +1,244 @@
+
+.about_main .container .row{
+    padding-top: 10%;
+
+}
+.about_main .col .main_text1 {
+    margin-top: 3%;
+    position: relative;
+    text-align: justify;
+    color: white;
+    margin-bottom: 1%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+.about_main .col h1 {
+    position: relative;
+    text-align: justify;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.about_main .col .main_text2 {
+    position: relative;
+    text-align: justify;
+    color: white;
+    margin-bottom: 5%;
+    font-size: 1.1rem;
+    font-weight: 200;
+    font-family: 'Roboto', sans-serif;
+}
+
+.about_main .col .sub_text {
+    position: relative;
+    text-align: left;
+    color: #fff;
+    font-size: medium;
+    font-weight: lighter;
+    font-family: 'Roboto', sans-serif;
+    width: 75%;
+}
+
+.about_main .btn{
+    border-radius: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 16px;
+    border: 2px solid #42FF00;
+    color: white;
+    margin-right: 65%;
+}
+
+/*about 2*/
+.about_2{
+    padding-top: 10%;
+}
+.about_2 .container .row{
+    padding-left: 5%;
+}
+.about_2 .container .row .col p{
+    text-align: justify;
+    color: #fff;
+    font-size: 1.4rem;
+    font-family: 'Roboto', sans-serif;
+}
+.about_2 .container .row .col p i{
+    font-weight: lighter;
+    font-family: 'Roboto', sans-serif;
+}
+.about_2 .container .row .col p span{
+    font-size: 1.8rem;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*what we do*/
+.what_we_do_about {
+    padding-top: 5%;
+    margin-left: 6%;
+    margin-right: 5%;
+}
+
+.what_we_do_about p {
+    margin-top: 5%;
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+}
+
+.what_we_do_about p span {
+    font-weight: 100;
+}
+
+.what_we_do_about .container .row .col {
+    position: relative;
+    border-radius: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.what_we_do_about .container .row .col .rowP__wwd1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+    color: white;
+    padding-top: 100%;
+
+}
+
+.what_we_do_about .container .row {
+    position: relative;
+    border-radius: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 2%;
+}
+
+.rowH1_wwd {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: left;
+    padding-top: 5%;
+    padding-left: 5%;
+    font-weight: bold;
+}
+
+.rowH1_wwd2 {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: left;
+    padding-left: 5%;
+    font-size: xx-large;
+    padding-bottom: 2%;
+}
+
+.rowP_wwd {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: left;
+    padding-left: 5%;
+}
+
+/*why choose us*/
+.why_choose_us_about {
+    padding-top: 5%;
+    margin-left: 6%;
+    margin-right: 5%;
+}
+
+.wcu_head {
+    margin-top: 3%;
+    position: relative;
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+}
+
+.why_choose_us_about .card-group {
+    padding-top: 2%;
+}
+
+.why_choose_us_about .card-group .card {
+    border: 2px solid #42FF00;
+    border-radius: 10px;
+    background-color: transparent;
+    color: white;
+}
+
+.why_choose_us_about .card-group .card .card-title {
+    padding: 2%;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.why_choose_us_about .card-group .card .card-text {
+    padding: 2%;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
+
+.wcuP {
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-left: 10%;
+    margin-right: 9%;
+    color: #fff;
+    text-align: center;
+}
+
+.btn_wcu {
+    border-radius: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 16px;
+    margin-left: 45.5%;
+    border: 2px solid #42FF00;
+    background-color: black;
+    color: white;
+    margin-bottom: 2%;
+}
+/*works*/
+.our_works_about {
+    padding-top: 0%;
+    margin-left: 5%;
+    margin-right: 2%;
+    
+}
+
+.ow_head {
+    margin-top: 5%;
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+}
+
+.our_works_about .home_gallery {
+    display: flex;
+    padding-top: 5%;
+    padding-left: 0%;
+}
+
+.our_works_about .home_gallery2 {
+    flex-direction: row;
+}
+
+.our_works_about .home_gallery2_0 {
+    padding-bottom: 0.5%;
+}
+
+.our_works_about .view_gallery_text {
+    position: absolute;
+    right: 17%;
+    top: 387%;
+    text-decoration: none;
+    color: white;
+}

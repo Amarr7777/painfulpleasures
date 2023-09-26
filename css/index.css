@@ -1,0 +1,487 @@
+body {
+    background-color: #000;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+/* first section*/
+.main {
+    padding-top: 5%;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+
+.main .col .main_text1 {
+    margin-top: 8%;
+    position: relative;
+    text-align: justify;
+    color: white;
+    margin-bottom: 1%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+.main .col h1 {
+    position: relative;
+    text-align: justify;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main .col .main_text2 {
+    position: relative;
+    text-align: justify;
+    color: white;
+    margin-bottom: 5%;
+    font-size: 1.1rem;
+    font-weight: 200;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main .col .sub_text {
+    position: relative;
+    text-align: left;
+    color: #fff;
+    font-size: medium;
+    font-weight: lighter;
+    font-family: 'Roboto', sans-serif;
+    width: 70%;
+}
+
+.main .col .btn {
+    border-radius: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 16px;
+    border: 2px solid #42FF00;
+    color: white;
+    margin-left: 4%;
+}
+
+.main .col button {
+    margin-top: 1%;
+    border-radius: 50px;
+    background-color: #000;
+    position: absolute;
+    left: 13%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin-top: 2%;
+}
+
+.main .col button:hover {
+    margin-top: 2%;
+    border-radius: 50px;
+    background-color: white;
+}
+
+.main .col .row img {
+    border-radius: 20px;
+}
+
+.img_low {
+    margin-top: 70%;
+}
+
+.img_low1 {
+    margin-top: 30%;
+}
+
+/*what we do*/
+.what_we_do {
+    padding-top: 5%;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+
+.what_we_do p {
+    margin-top: 5%;
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+}
+
+.what_we_do p span {
+    font-weight: 100;
+}
+
+.what_we_do .container .row .col {
+    position: relative;
+    border-radius: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.what_we_do .container .row .col .rowP__wwd1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+    color: white;
+    padding-top: 100%;
+
+}
+
+.what_we_do .container .row {
+    position: relative;
+    border-radius: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 2%;
+}
+
+.rowH1_wwd {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: left;
+    padding-top: 5%;
+    padding-left: 5%;
+    font-weight: bold;
+}
+
+.rowH1_wwd2 {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: left;
+    padding-left: 5%;
+    font-size: xx-large;
+    padding-bottom: 2%;
+}
+
+.rowP_wwd {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: left;
+    padding-left: 5%;
+}
+
+#rowP_wwd2 {
+    padding-left: 5%;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    font-size: x-large;
+    color: white;
+    padding-bottom: 2%;
+}
+
+.btn_wwd {
+    border-radius: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 16px;
+    border: 2px solid #42FF00;
+    background-color: black;
+    color: white;
+    margin-left: -80%;
+    margin-bottom: 2%;
+}
+
+/*why choose us*/
+.why_choose_us {
+    padding-top: 5%;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+
+.wcu_head {
+    margin-top: 3%;
+    position: relative;
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+}
+
+.why_choose_us .card-group {
+    padding-top: 2%;
+}
+
+.why_choose_us .card-group .card {
+    border: 2px solid #42FF00;
+    border-radius: 10px;
+    background-color: transparent;
+    color: white;
+}
+
+.why_choose_us .card-group .card .card-title {
+    padding: 2%;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.why_choose_us .card-group .card .card-text {
+    padding: 2%;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
+
+.wcuP {
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-left: 11%;
+    margin-right: 11%;
+    color: #fff;
+    text-align: center;
+}
+
+.btn_wcu {
+    border-radius: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 16px;
+    margin-left: 44%;
+    border: 2px solid #42FF00;
+    background-color: black;
+    color: white;
+    margin-bottom: 2%;
+}
+
+/*artist*/
+.artist {
+    padding-top: 5%;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+
+.artist .container .row .col {
+    margin-top: 3%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 50px;
+}
+
+.artistP {
+    color: #fff;
+    padding-top: 90%;
+}
+
+.artist .container .row {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.artist .container .row .col .fa {
+    margin-right: 2%;
+}
+
+.artist .container .row .col .artist_main_text {
+    margin-top: 8%;
+    position: relative;
+    text-align: justify;
+    color: white;
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+.artist .container .row .col .artist_sub_text {
+    position: relative;
+    text-align: left;
+    color: #fff;
+    font-size: medium;
+    font-weight: lighter;
+}
+
+.text_below_main_artist {
+    font-size: large;
+    font-weight: lighter;
+}
+
+/*our work*/
+.our_works {
+    padding-top: 5%;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+
+.ow_head {
+    margin-top: 15%;
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+}
+
+.home_gallery {
+    display: flex;
+    padding-top: 5%;
+}
+
+.home_gallery2 {
+    flex-direction: row;
+}
+
+.home_gallery2_0 {
+    padding-bottom: 0.5%;
+}
+
+.our_works .view_gallery_text {
+    position: absolute;
+    right: 17%;
+    top: 445%;
+    text-decoration: none;
+    color: white;
+}
+
+/*testimonials*/
+.testimonials {
+    padding-top: 5%;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+.testimonials .container{
+    padding-left: 5%;
+}
+.testimonials .container .row .col{
+    padding: 5%;
+}
+.testimonials .container .row .col .container .row .col-8{
+    text-align: left;
+    color: white;
+    padding-top: 10%;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.testimonials .container .row .col .container .row .col-4{
+    text-align: left;
+    padding-bottom: 2%;
+    padding-top: 5%;
+}
+.testimonials .container .row .col .container .row .col{
+    text-align: left;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+/*appointment*/
+.appointment {
+    padding-top: 0%;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+
+.appointment .row {
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='51' ry='51' stroke='%2342FF00FF' stroke-width='5' stroke-dasharray='6%2c 14' stroke-dashoffset='56' stroke-linecap='square'/%3e%3c/svg%3e");
+    border-radius: 51px;
+    border-color: #42FF00;
+    border-spacing: 500px;
+    padding: 5%;
+}
+
+.appointment .row .col {
+    padding: 2%;
+}
+
+.appointment label {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.appointment .row .col-md-6 input {
+    background-color: black;
+    border-radius: 20px;
+    padding: 5%;
+}
+
+.appointment input {
+    background-color: black;
+    border-radius: 20px;
+    padding: 2%;
+}
+
+.appointment select {
+    background-color: black;
+    border-radius: 20px;
+    padding: 2%;
+}
+
+.appointment .btn {
+    border-radius: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 16px;
+    border: 2px solid #42FF00;
+    color: white;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+
+.appointment .row h1 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+/*address*/
+.address{
+    padding-top: 0%;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+.addresss-flex{
+    display: flex;
+    background-image: url(../img/map_bgimg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 2%;
+    margin-right: 5%;
+    margin-left: 5%;
+    border-radius: 50px;
+}
+.addresss-flex .address-icon{
+    color: white;
+    margin-top: 5%;
+    margin-right: 3%;
+    padding-top: 5%;
+    margin-left: 73.5%;
+}
+.addresss-flex .address-icon p{
+  padding-bottom: 400%;
+}
+.addresss-flex .address-text p{
+    padding-bottom: 15%;
+}
+.addresss-flex .address-text{
+    color: white;
+    margin-top: 8%;
+    padding-right: 2%;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+}
+/*footer*/
+.index_footer{
+    padding-top: 5%;
+    margin-left: 5%;
+    margin-right: 2%;
+    color: white;
+    margin-bottom: 1%;
+}
+.index_footer .container .row .col-md-1 p{
+    text-align: left;
+    font-size: x-large;
+    margin-left: 70%;
+}
+.index_footer .container .row .col-md-7 p{
+    text-align: left;
+    font-size: x-large;
+}
+.index_footer .container .row .col-md-1 {
+   margin-top: 2%;
+}
+.index_footer .container .row .col-md-7 {
+    margin-top: 2%;
+}

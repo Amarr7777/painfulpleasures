@@ -1,0 +1,67 @@
+.T_and_Micro {
+    padding-top: 5%;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+
+.T_and_Micro .container .row .col{
+    background-repeat: no-repeat;
+    background-size: 80%;
+    border-radius: 10%;
+    margin-left: 8%;
+}
+.T_and_Micro .container .row .col .rowP__wwd1{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: larger;
+    padding-top: 80%;
+    text-align: left;
+    padding-left: 18%;
+    margin-bottom:2%;
+
+}
+
+
+.T_and_Micro .container .row .col .artist_main_text {
+    margin-top: 8%;
+    position: relative;
+    text-align: justify;
+    color: white;
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+.T_and_Micro .container .row .col .artist_sub_text {
+    position: relative;
+    text-align: left;
+    color: #fff;
+    font-size: medium;
+    font-weight: lighter;
+}
+
+.text_below_main_artist {
+    font-size: large;
+    font-weight: lighter;
+}
+.T_and_Micro .col .btn {
+    border-radius: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 16px;
+    border: 2px solid #42FF00;
+    color: white;
+    margin-right: 59.5%;
+}
+.services_sect2{
+    padding-left: 8%;
+    padding-right: 8%;
+}
+.view_gallery_text_services{
+    position: absolute;
+    right: 17%;
+    top: 490%;
+    text-decoration: none;
+    color: white;
+}
